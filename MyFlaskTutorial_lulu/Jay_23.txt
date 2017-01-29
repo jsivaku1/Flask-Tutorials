@@ -1,0 +1,12 @@
+Name: Jay
+Age: 23
+
+Which fruit do you like
+Strawberry
+
+How many eyes do you have?
+3
+
+Do you like cup cakes
+Maybe
+
